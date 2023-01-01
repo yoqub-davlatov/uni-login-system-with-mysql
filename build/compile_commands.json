@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/yoqub/OneDrive/Documents/C++ programming/cmakeWithMySQL/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/myProject.dir/includes_CXX.rsp -g -o CMakeFiles\\myProject.dir\\src\\main.cpp.obj -c \"C:\\Users\\yoqub\\OneDrive\\Documents\\C++ programming\\cmakeWithMySQL\\src\\main.cpp\"",
+  "file": "C:/Users/yoqub/OneDrive/Documents/C++ programming/cmakeWithMySQL/src/main.cpp"
+}
+]

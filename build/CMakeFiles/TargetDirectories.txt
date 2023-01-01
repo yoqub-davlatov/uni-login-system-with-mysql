@@ -1,0 +1,3 @@
+C:/Users/yoqub/OneDrive/Documents/C++ programming/cmakeWithMySQL/build/CMakeFiles/myProject.dir
+C:/Users/yoqub/OneDrive/Documents/C++ programming/cmakeWithMySQL/build/CMakeFiles/edit_cache.dir
+C:/Users/yoqub/OneDrive/Documents/C++ programming/cmakeWithMySQL/build/CMakeFiles/rebuild_cache.dir
